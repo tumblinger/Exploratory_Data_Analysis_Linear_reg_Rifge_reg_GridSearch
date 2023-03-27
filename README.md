@@ -1,1 +1,1 @@
-# Exploratory_Data_Analysis_Linear_reg_Rifge_reg_GridSearch
+# Exploratory_Data_Analysis_Linear_reg_Ridge_reg_GridSearch
