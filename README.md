@@ -1,7 +1,8 @@
 # Exploratory Data Analysis
 ## Linear regression, Ridge regression, GridSearch
-![pict](https://user-images.githubusercontent.com/77502878/228066923-48e01f49-c9cd-4a42-adc2-d58dbceedfbf.JPG)
 ### The data consists of information about various car models, including their make, model, volume, weight, and CO2 emissions. 
+![pict](https://user-images.githubusercontent.com/77502878/228066923-48e01f49-c9cd-4a42-adc2-d58dbceedfbf.JPG)
+
 #### Based on the use of linear regression, ridge regression, and grid search methods on this dataset, the following summary can be written:
 
 #### Linear regression: The linear regression model was used to analyze the relationship between the car features (volume and weight) and CO2 emissions. The model showed a moderate positive correlation between volume and CO2 emissions, and a strong positive correlation between weight and CO2 emissions. However, the model did not perform well in terms of accuracy and had a high variance.
